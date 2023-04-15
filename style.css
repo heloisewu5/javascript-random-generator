@@ -1,0 +1,56 @@
+
+body {
+	background-color: #3b3836;
+}
+
+#title {
+	text-align: center;
+	color: #c9c9c9;
+	font-family: "essonnes-text", serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 40px;
+	padding: 20px 50px;
+}
+
+#paragraph {
+	text-align: center;
+	color: #c9c9c9;
+	font-family: "essonnes-text", serif;
+	font-weight: 300;
+	font-style: normal;
+	padding: 20px 50px;
+}
+
+#imgdiv {
+	display: flex;
+	justify-content:center;
+	align-items:center;
+}
+
+img {
+	width: 35%;
+}
+
+#inputContainer {
+display: flex;
+justify-content:center;
+align-items:center;
+padding: 20px 50px;
+}
+
+#outputContainer {
+display: flex;
+justify-content:center;
+align-items:center;
+padding: 20px 50px;
+}
+
+#outputText {
+	text-align: center;
+	color: #c9c9c9;
+	font-family: "essonnes-text", serif;
+	font-weight: 300;
+	font-style: italic;
+	padding: 20px 50px;
+}
